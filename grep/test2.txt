@@ -1,0 +1,26 @@
+ptrn1
+pTrn1
+
+pTrn1
+pTrn2
+
+    ptrn1 some random ptrn1text !@#$FADSdasd ptrn1
+    ptrn2 some random ptrn2text !@#$FADSdasd ptrn2
+
+    PTrn1 some random ptrn1text !@#$FADSdasd PTrn1
+    PTrn2 some random ptrn2text !@#$FADSdasd PTrn2
+
+ptrn1
+pTrn1
+
+pTrn1
+pTrn2
+
+    ptrn1 some random ptrn1text !@#$FADSdasd ptrn1
+    ptrn2 some random ptrn2text !@#$FADSdasd ptrn2
+
+    PTrn1 some random ptrn1text !@#$FADSdasd PTrn1
+    PTrn2 some random ptrn2text !@#$FADSdasd PTrn2
+
+ptrn1
+pTrn1
